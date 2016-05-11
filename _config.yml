@@ -1,0 +1,28 @@
+name: santabarbara
+favicon: null
+layout_spectrum: 0.48698481800965965
+typography_spectrum: 0.5656599185895175
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9579924466088414
+  lightness: 0.4862451609224081
+  saturation: 0.10895021189935505
+  rhythmicContrast: 0.4617850366048515
+purpose: []
